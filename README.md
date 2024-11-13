@@ -1,4 +1,4 @@
-Deep Learning Paper Review and Practice
+Paper Review and Practice
 
 * This is a repository for thorough deep learning paper reviews and code practice.
 * We introduce various popular deep learning papers, focusing on the latest papers.
